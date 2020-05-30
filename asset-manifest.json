@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/babelturo/app_2020/static/css/main.a122b848.chunk.css",
-    "main.js": "/babelturo/app_2020/static/js/main.cc837630.chunk.js",
-    "main.js.map": "/babelturo/app_2020/static/js/main.cc837630.chunk.js.map",
-    "runtime-main.js": "/babelturo/app_2020/static/js/runtime-main.041c1707.js",
-    "runtime-main.js.map": "/babelturo/app_2020/static/js/runtime-main.041c1707.js.map",
-    "static/js/2.7841641c.chunk.js": "/babelturo/app_2020/static/js/2.7841641c.chunk.js",
-    "static/js/2.7841641c.chunk.js.map": "/babelturo/app_2020/static/js/2.7841641c.chunk.js.map",
-    "index.html": "/babelturo/app_2020/index.html",
-    "precache-manifest.bc5e7fb0250ee600986c2fe628805d1a.js": "/babelturo/app_2020/precache-manifest.bc5e7fb0250ee600986c2fe628805d1a.js",
-    "service-worker.js": "/babelturo/app_2020/service-worker.js",
-    "static/css/main.a122b848.chunk.css.map": "/babelturo/app_2020/static/css/main.a122b848.chunk.css.map",
-    "static/js/2.7841641c.chunk.js.LICENSE.txt": "/babelturo/app_2020/static/js/2.7841641c.chunk.js.LICENSE.txt"
+    "main.css": "/app_2020/static/css/main.a122b848.chunk.css",
+    "main.js": "/app_2020/static/js/main.cc837630.chunk.js",
+    "main.js.map": "/app_2020/static/js/main.cc837630.chunk.js.map",
+    "runtime-main.js": "/app_2020/static/js/runtime-main.6cffc02a.js",
+    "runtime-main.js.map": "/app_2020/static/js/runtime-main.6cffc02a.js.map",
+    "static/js/2.7841641c.chunk.js": "/app_2020/static/js/2.7841641c.chunk.js",
+    "static/js/2.7841641c.chunk.js.map": "/app_2020/static/js/2.7841641c.chunk.js.map",
+    "index.html": "/app_2020/index.html",
+    "precache-manifest.32837a3b4fe38b4491818ee01ae8aacf.js": "/app_2020/precache-manifest.32837a3b4fe38b4491818ee01ae8aacf.js",
+    "service-worker.js": "/app_2020/service-worker.js",
+    "static/css/main.a122b848.chunk.css.map": "/app_2020/static/css/main.a122b848.chunk.css.map",
+    "static/js/2.7841641c.chunk.js.LICENSE.txt": "/app_2020/static/js/2.7841641c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.041c1707.js",
+    "static/js/runtime-main.6cffc02a.js",
     "static/js/2.7841641c.chunk.js",
     "static/css/main.a122b848.chunk.css",
     "static/js/main.cc837630.chunk.js"
